@@ -1,4 +1,5 @@
 stopforumspam-1.0
+
 PHP class to check an IP, email or username against the stopforumspam.com database
 
 stopforumspam.php v 1.0 November 27 2012
